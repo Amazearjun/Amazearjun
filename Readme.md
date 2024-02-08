@@ -9,8 +9,8 @@
 💼 In my career, I've successfully delivered numerous projects. My expertise spans across Azure services such as Azure App Service, Azure Functions, Azure SQL Database, 
    .Net Core, EF Core and more.
 
-🌱 I'm committed to continuous learning and staying updated with the latest technologies and best practices in cloud computing and software development.  
-    I'm always seeking opportunities to expand my knowledge.
+🌱 I'm committed to continuous learning and staying updated with the latest technologies and best practices in cloud computing and software development. I'm always seeking 
+    opportunities to expand my knowledge.
 
 📫 Let's connect and collaborate! Whether you're looking for advice on Azure solutions, interested in discussing cloud architecture, or simply want to geek out about .NET 
     development, feel free to reach out to me here on GitHub or connect with me on [https://www.linkedin.com/in/arjun-sridharan-469666191/]
